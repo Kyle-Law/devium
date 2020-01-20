@@ -7,8 +7,8 @@
   <a href="https://twitter.com/suretrustng" target="_blank">
     <img alt="Twitter: suretrustng" src="https://img.shields.io/twitter/follow/suretrustng.svg?style=social" />
   </a>
-    <a href="https://twitter.com/mosaaleb" target="_blank">
-    <img alt="Twitter: mosaaleb" src="https://img.shields.io/twitter/follow/suretrustng.svg?style=social" />
+  <a href="https://twitter.com/mosaaleb" target="_blank">
+    <img alt="Twitter: mosaaleb" src="https://img.shields.io/twitter/follow/mosaaleb.svg?style=social" />
   </a>
 </p>
 
@@ -24,56 +24,57 @@ Devium is a social media platform for software developers built with rails.
 - Login with facebook.
 - Edit setting and profile information.
 
+### 🏠 [Live Demo](https://deviumio.herokuapp.com/)
+
 ![Devium Image](https://i.ibb.co/smtMY73/Screenshot-2020-01-20-at-09-05-26.png)
 
-### Technologies && Tools
+## E-R Diagram
+![ERD](https://i.ibb.co/rx3xQGp/Screenshot-2020-01-20-at-09-12-05.png)
 
+### Technologies && Tools
+- Ruby
 - Rails
 - RSpec
 - Capybara
 - Factory Bot
 - SCSS
-
-### 🏠 [Live Demo](https://deviumio.herokuapp.com/)
-
-## Database Design
-![ERD](https://raw.githubusercontent.com/suretrust/devium/master/ERD.jpeg)
-
+- PostgreSQL
+- Omniauth
+- Devise
 
 ## Usage
-#### Clone the repository to your local machine
-`git clone https://github.com/suretrust/bookcourt.git`
+To get started with the app, clone the repository and then install the needed gems:
 
-#### Change directory into the directory
-`cd bookcourt`
-
-#### Install dependencies
-`npm install`
 `bundle install`
 
-#### Run rails server
-`rails s`
+Next, migrate the database:
 
-###### If it doesn't open automatically, open `http://localhost:3000` using your browser.
+`rails db:migrate`
+
+Then seed the database:
+
+`rails db:seed`
+
+Run the test suite to verify that everything is working correctly:
+
+`rspec`
+
+Finally, launch rails server:
+
+`rails server`
 
 ## Run tests
 
-```sh
+```ruby
 rspec
 ```
-
-## Author
-
-👤 **Saheed Oladele**
-
-- Twitter: [@suretrustng](https://twitter.com/suretrustng)
-- Github: [@suretrust](https://github.com/suretrust)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## Authors
 - [Saheed](https://github.com/suretrust)
 - [Muhammad](https://github.com/mosaaleb)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
 
