@@ -12,19 +12,19 @@
   </a>
 </p>
 
-Devium is a social media platform built with rails. 
+Devium is a social media platform for software developers built with rails. 
 
 ## Features
-- Sending friend requests.
-- Accepting friend requests.
-- Remove friends.
-- Add posts.
-- Add comment to posts.
-- Having a newsfeed page based on the friends list.
-- Ability to login with facebook.
+- Send friend requests.
+- Accept friend requests.
+- Delete friend.
+- Add post.
+- Add comment to post.
+- Newsfeed page based on the friends list.
+- Login with facebook.
 - Edit setting and profile information.
 
-![Devium Image](https://serving.photos.photobox.com/78965802c7c1396e72cc469788226fdbe37865d0a442cb92c492021ca2df79fc499456a3.jpg)
+![Devium Image](https://i.ibb.co/smtMY73/Screenshot-2020-01-20-at-09-05-26.png)
 
 ### Technologies && Tools
 
@@ -35,8 +35,6 @@ Devium is a social media platform built with rails.
 - SCSS
 
 ### 🏠 [Live Demo](https://deviumio.herokuapp.com/)
-
-
 
 ## Database Design
 [ERD](https://www.lucidchart.com/invitations/accept/02f604cf-c6bb-4e94-a595-4b3c6856d8a3)
