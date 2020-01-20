@@ -28,7 +28,7 @@ Devium is a social media platform for software developers built with rails.
 
 ![Devium Image](https://i.ibb.co/smtMY73/Screenshot-2020-01-20-at-09-05-26.png)
 
-## E-R Diagram
+## Entity Relationship Diagram
 ![ERD](https://i.ibb.co/rx3xQGp/Screenshot-2020-01-20-at-09-12-05.png)
 
 ### Technologies && Tools
