@@ -37,7 +37,7 @@ Devium is a social media platform for software developers built with rails.
 ### 🏠 [Live Demo](https://deviumio.herokuapp.com/)
 
 ## Database Design
-[ERD](https://www.lucidchart.com/invitations/accept/02f604cf-c6bb-4e94-a595-4b3c6856d8a3)
+![ERD](https://raw.githubusercontent.com/suretrust/devium/master/ERD.jpeg)
 
 
 ## Usage
