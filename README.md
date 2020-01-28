@@ -70,7 +70,7 @@ rspec
 ```
 
 ## Authors
-- [Saheed](https://github.com/suretrust)
+- [Saheed](https://github.com/suretrust) [(Email)](mailto:saholadele@gmail.com)
 - [Muhammad](https://github.com/mosaaleb)
 
 ## Show your support
